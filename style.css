@@ -283,6 +283,7 @@ strong {
 }
 small {
 	font-size: 26px;
+	vertical-align: super;
 }
 .details {
 	text-align: center;
