@@ -359,5 +359,5 @@ input[type="checkbox"]:checked + label:before {
 	font-family: 'Roboto';
 }
 .more {
-		padding: 21px 0 21px 37px;
+	padding: 21px 0 21px 37px;
 }	
